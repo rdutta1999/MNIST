@@ -1,7 +1,9 @@
 # MNIST
  Identifying Handwritten Digits
 
- Here the test.csv, train.csv and sample_submission.csv has been downloaded from Kaggle. I have implemented three models to identify the digits:-
+ Here the test.csv, train.csv and sample_submission.csv has been downloaded from Kaggle [[Digit Recognizer](https://www.kaggle.com/c/3004/download-all)].
+ 
+ I have implemented three models to identify the digits:-
 
 i) a N-Hidden Layer model in which the user can specify any number of hidden layers and number of hidden units in each layer, with sigmoid as the activation function. It is implemented fully using only Numpy and Pandas.
 
