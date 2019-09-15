@@ -1,7 +1,7 @@
 # MNIST
  Identifying Handwritten Digits
 
- Here the test.csv, train.csv and sample_submission.csv has been downloaded from Kaggle [[Digit Recognizer](https://www.kaggle.com/c/3004/download-all)].
+ The Dataset has been downloaded from Kaggle [[Digit Recognizer](https://www.kaggle.com/c/3004/download-all)].
  
  I have implemented three models to identify the digits:-
 
